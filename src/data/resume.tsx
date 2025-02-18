@@ -173,7 +173,7 @@ export const DATA = {
         },
       ],
       image: "",
-      video: `${basePath}/videos/easy-cart.mp4`,
+      video: `https://firebasestorage.googleapis.com/v0/b/neighbor-service-c7d94.appspot.com/o/easy-cart.mp4?alt=media&token=28f5b19c-99bf-4f32-a32c-ba99a748f32a`,
     },
   ],
   hackathons: [
