@@ -173,7 +173,7 @@ export const DATA = {
         },
       ],
       image: "",
-      video: "/videos/easy-cart.mp4",
+      video: `${basePath}/videos/easy-cart.mp4`,
     },
   ],
   hackathons: [
